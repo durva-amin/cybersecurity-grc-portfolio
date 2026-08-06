@@ -1,0 +1,1 @@
+A user installs a free application from an unknown website. The application secretly records the user's passwords and browsing history and sends them to an attacker.

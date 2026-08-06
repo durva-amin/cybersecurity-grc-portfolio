@@ -1,0 +1,4 @@
+- Documents are updated to stay accurate and relevant.
+- Updates occur due to business, technology, legal, or security changes.
+- Regular reviews help maintain compliance.
+- Outdated documents increase security and compliance risks.

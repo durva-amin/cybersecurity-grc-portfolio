@@ -1,0 +1,6 @@
+- **Insider Threat = Threat from inside the organization.**
+- Can be:
+    - **Malicious** (Intentional)
+    - **Negligent** (Accidental)
+    - **Compromised** (Account taken over)
+- Insiders include employees, contractors, vendors, and interns.

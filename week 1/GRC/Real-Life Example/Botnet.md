@@ -1,0 +1,1 @@
+A user's computer is infected with malware. Without the user's knowledge, it becomes part of a botnet and is used to attack another company's website.

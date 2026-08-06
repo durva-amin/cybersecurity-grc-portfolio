@@ -1,0 +1,4 @@
+- **Trojan = Fake software that appears legitimate.**
+- Tricks users into installing it.
+- Does **not** spread automatically.
+- Can steal data and give attackers unauthorized access.

@@ -1,0 +1,4 @@
+- **Accounting = Records user activities.**
+- Answers: **"What did the user do?"**
+- Used for auditing and investigations.
+- Records login time, logout time, accessed files, and actions.

@@ -1,0 +1,4 @@
+- **Social Engineering = Manipulating people.**
+- Targets **people**, not systems.
+- Goal is to steal information or gain unauthorized access.
+- Common attacks: Phishing, Spear Phishing, Whaling, Vishing, Smishing.

@@ -1,0 +1,4 @@
+- **Threat = Potential danger.**
+- Can be natural, human, or environmental.
+- May lead to data loss, financial loss, or service disruption.
+- A threat has the **potential** to cause harm.

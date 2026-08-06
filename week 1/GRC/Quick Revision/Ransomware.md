@@ -1,0 +1,4 @@
+- **Ransomware = Encrypts files and demands money.**
+- Main goal is **financial gain**.
+- Common spread methods: phishing emails, malicious downloads, and unpatched software.
+- Preventive measures include regular backups, software updates, and user awareness.

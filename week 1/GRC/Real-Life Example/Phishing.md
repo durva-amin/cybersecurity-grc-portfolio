@@ -1,0 +1,1 @@
+You receive an email claiming to be from your bank asking you to verify your account. The email contains a fake login page. You enter your username and password, and the attacker steals them.

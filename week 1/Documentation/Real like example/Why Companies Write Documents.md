@@ -1,0 +1,1 @@
+A new employee joins a company. Instead of explaining security rules verbally, the company provides an **Acceptable Use Policy** and **Password Policy**. This ensures every employee receives the same instructions.

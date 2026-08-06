@@ -1,0 +1,4 @@
+- **Adware = Displays unwanted advertisements.**
+- Can slow down the system.
+- May redirect browsers and track browsing habits.
+- Common sources: free software, bundled apps, browser extensions.

@@ -1,0 +1,4 @@
+- **Spyware = Secretly monitors users.**
+- Steals passwords, banking details, and personal information.
+- Runs in the background without the user's knowledge.
+- Common sources: fake software, malicious websites, and email attachments.

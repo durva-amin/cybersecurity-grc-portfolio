@@ -1,0 +1,4 @@
+- **Smishing = SMS Phishing.**
+- Uses **text messages (SMS)**.
+- Often contains fake links or urgent messages.
+- Targets passwords, OTPs, bank details, and personal information.

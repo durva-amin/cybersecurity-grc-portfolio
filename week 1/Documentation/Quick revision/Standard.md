@@ -1,0 +1,5 @@
+- Defines **specific mandatory requirements**.
+- Supports policies.
+- Ensures consistency.
+- Mandatory to follow.
+- Example: Password length must be **12 characters**.

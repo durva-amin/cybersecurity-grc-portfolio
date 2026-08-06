@@ -1,0 +1,4 @@
+- **Personal Data = Information that identifies a person.**
+- Examples: Name, phone number, email, Aadhaar, PAN, passport.
+- Protect it using passwords, encryption, MFA, and access control.
+- Leakage can lead to identity theft and privacy issues.

@@ -1,0 +1,4 @@
+- **Whaling = Spear Phishing targeting executives.**
+- Targets CEOs, CFOs, Directors, and other senior officials.
+- Usually aims to steal money or confidential information.
+- Uses highly personalized emails.

@@ -1,0 +1,4 @@
+- **Phishing = Fake message to steal information.**
+- Pretends to be a trusted person or organization.
+- Common targets: Passwords, bank details, OTPs.
+- Common methods: Email, fake websites, SMS, social media.

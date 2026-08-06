@@ -1,0 +1,4 @@
+- **Spear Phishing = Targeted phishing attack.**
+- Targets a **specific person or organization**.
+- Uses personal information to gain trust.
+- More effective than regular phishing.

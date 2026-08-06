@@ -1,0 +1,1 @@
+A company creates a **Password Policy** stating that all employees must use passwords with at least 12 characters and Multi-Factor Authentication (MFA). Every employee follows the same documented rule.

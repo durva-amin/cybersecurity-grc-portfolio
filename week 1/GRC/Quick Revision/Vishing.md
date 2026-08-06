@@ -1,0 +1,4 @@
+- **Vishing = Voice Phishing.**
+- Uses **phone calls or voice messages**.
+- Targets bank details, passwords, OTPs, and personal information.
+- Never share confidential information over a phone call.

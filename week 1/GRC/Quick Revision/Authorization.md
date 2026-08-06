@@ -1,0 +1,4 @@
+- **Authorization = Decides what you can access or do.**
+- Happens **after Authentication**.
+- Controls user permissions.
+- Examples: Read, Write, Edit, Delete.

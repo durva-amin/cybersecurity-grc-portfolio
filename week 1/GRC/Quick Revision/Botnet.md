@@ -1,0 +1,4 @@
+- **Botnet = Network of infected devices.**
+- **Bot (Zombie) = One infected device.**
+- Controlled remotely by an attacker.
+- Commonly used for DDoS attacks, spam, malware distribution, and data theft.

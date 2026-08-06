@@ -1,0 +1,4 @@
+- **Virus = A type of malware.**
+- Attaches to a **file or program**.
+- Needs **user action** to spread.
+- Can damage files and slow down systems.

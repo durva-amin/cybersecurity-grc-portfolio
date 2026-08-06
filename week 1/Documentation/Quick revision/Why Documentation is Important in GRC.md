@@ -1,0 +1,6 @@
+- Documentation is the foundation of GRC.
+- Supports **Governance** by defining rules.
+- Supports **Risk** by recording and managing risks.
+- Supports **Compliance** by providing audit evidence.
+- Essential for audits and certifications.
+- 

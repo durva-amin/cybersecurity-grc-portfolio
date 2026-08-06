@@ -1,0 +1,1 @@
+A person receives a call from someone claiming to be from their bank. The caller says the account will be blocked unless the customer shares their OTP.

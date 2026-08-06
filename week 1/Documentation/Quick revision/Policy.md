@@ -1,0 +1,5 @@
+- High-level document.
+- Defines **what** must be done.
+- Mandatory to follow.
+- Approved by senior management.
+- Does not explain detailed steps.

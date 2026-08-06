@@ -1,0 +1,4 @@
+- **Risk = Chance of harm or loss.**
+- Risk occurs when a **threat exploits a vulnerability**.
+- Risks can cause financial loss, data loss, and business disruption.
+- **Threat + Vulnerability = Risk**

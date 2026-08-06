@@ -1,0 +1,1 @@
+A user installs a free video player. After installation, pop-up ads start appearing frequently, and the browser homepage changes automatically.

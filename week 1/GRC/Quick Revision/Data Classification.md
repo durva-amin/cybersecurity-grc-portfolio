@@ -1,0 +1,7 @@
+- **Data Classification = Categorizing data by sensitivity.**
+- Common levels:
+    - **Public** → Anyone can access.
+    - **Internal** → Employees only.
+    - **Confidential** → Authorized users only.
+    - **Restricted** → Highest level of protection.
+- Helps improve security and compliance.

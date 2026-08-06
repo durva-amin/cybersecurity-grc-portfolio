@@ -1,0 +1,7 @@
+- Version Control tracks document changes.
+- Maintains document history.
+- Ensures the latest version is used.
+- **1.0** = First official release.
+- **1.1** = Minor update.
+- **2.0** = Major update.
+- 

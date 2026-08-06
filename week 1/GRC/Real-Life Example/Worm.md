@@ -1,0 +1,1 @@
+A worm infects one computer in an office network. It automatically spreads to other computers without anyone opening a file or clicking a link.

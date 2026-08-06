@@ -1,0 +1,1 @@
+A company's CFO receives an email that appears to be from the CEO asking for an urgent bank transfer. The email is fake, and the money is sent to the attacker's account.

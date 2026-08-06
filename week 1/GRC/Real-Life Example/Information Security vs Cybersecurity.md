@@ -1,0 +1,1 @@
+The company installs a firewall and antivirus to protect its computer systems from hackers.

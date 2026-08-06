@@ -1,0 +1,1 @@
+A user installs infected software. The malware secretly installs a rootkit, which hides itself and prevents the antivirus from detecting it.

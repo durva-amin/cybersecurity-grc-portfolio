@@ -1,0 +1,4 @@
+- **Worm = A type of malware.**
+- Does **not** need a host file.
+- Spreads **automatically**.
+- Uses networks and vulnerabilities to infect other systems.

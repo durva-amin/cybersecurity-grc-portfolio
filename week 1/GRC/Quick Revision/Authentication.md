@@ -1,0 +1,7 @@
+- **Authentication = Verifying identity ("Who are you?")**
+- Purpose: Verify users before granting access.
+- Three factors:
+    - Something you know
+    - Something you have
+    - Something you are
+- **MFA = Two or more authentication factors.**

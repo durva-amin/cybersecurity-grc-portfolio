@@ -1,0 +1,5 @@
+- Collection of security-related documents.
+- Defines rules, processes, and responsibilities.
+- Supports GRC and compliance.
+- Used by employees, auditors, and management.
+- Provides audit evidence.

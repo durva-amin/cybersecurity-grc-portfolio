@@ -1,0 +1,7 @@
+- **Attack Surface = All possible entry points for an attacker.**
+- Types:
+    - Digital
+    - Physical
+    - Human
+- **Smaller attack surface = Better security.**
+- Reduce it by removing unnecessary systems, accounts, and services.

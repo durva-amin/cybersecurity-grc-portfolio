@@ -1,0 +1,1 @@
+A bank uses cybersecurity to protect customer accounts and online transactions from hackers.

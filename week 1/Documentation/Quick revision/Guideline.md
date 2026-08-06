@@ -1,0 +1,5 @@
+- Recommends **best practices**.
+- Usually **not mandatory**.
+- Flexible.
+- Supports security awareness.
+- Helps employees make good decisions.

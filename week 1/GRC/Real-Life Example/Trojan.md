@@ -1,0 +1,1 @@
+A user downloads a **fake PDF converter** from an unknown website. It appears to work normally, but secretly installs malware in the background.

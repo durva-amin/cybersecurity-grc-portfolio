@@ -1,0 +1,4 @@
+- **Rootkit = Hides malware.**
+- Difficult to detect and remove.
+- Can hide files, processes, and other malware.
+- May give attackers remote access.

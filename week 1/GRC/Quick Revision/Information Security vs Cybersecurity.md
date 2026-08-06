@@ -1,0 +1,3 @@
+- **Information Security = Protects all information (digital + paper + verbal).**
+- **Cybersecurity = Protects only digital systems and digital data.**
+- **Cybersecurity is a part of Information Security.**

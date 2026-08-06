@@ -1,0 +1,4 @@
+- **Confidential Data = Sensitive information that must be kept secret.**
+- Accessible **only to authorized users.**
+- Examples: Salary records, contracts, financial reports, trade secrets.
+- Protected using encryption, access control, passwords, and MFA.

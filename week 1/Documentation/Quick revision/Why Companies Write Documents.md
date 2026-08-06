@@ -1,0 +1,6 @@
+- Documents create consistency.
+- Define rules and responsibilities.
+- Help employees follow correct procedures.
+- Support audits and compliance.
+- Reduce risks and mistakes.
+- Preserve organizational knowledge.

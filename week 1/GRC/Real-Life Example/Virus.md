@@ -1,0 +1,1 @@
+A user downloads a cracked software containing a virus. When the software is installed, the virus infects other files on the computer.

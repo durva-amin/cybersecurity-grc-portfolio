@@ -1,0 +1,5 @@
+- Explains **how** to perform a task.
+- Step-by-step document.
+- Detailed and specific.
+- Supports policies.
+- Mandatory to follow.
