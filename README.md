@@ -1,5 +1,11 @@
 # 🛡️ Cybersecurity GRC Portfolio
 
+> 🚀 **Started:** August 2026  
+> 🎯 **Target:** Information Security (GRC) Internship by December 2026  
+> 📅 **Status:** Week 1 Completed ✅
+
+---
+
 Welcome to my Cybersecurity Governance, Risk, and Compliance (GRC) learning portfolio.
 
 This repository documents my journey from a complete beginner to becoming internship-ready in Information Security GRC.
