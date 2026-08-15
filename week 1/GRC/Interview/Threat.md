@@ -42,9 +42,3 @@ No. A threat is only a **potential danger**. It becomes harmful when it successf
 Yes. The hacker is a **threat** because they have the potential to cause harm, even if the attack has not been successful.
 
 
-**"What is the difference between a Threat and a Vulnerability?"**
-
-Don't mix them.
-
-- **Threat:** A potential danger (e.g., a hacker, malware, flood).
-- **Vulnerability:** A weakness that a threat can exploit.

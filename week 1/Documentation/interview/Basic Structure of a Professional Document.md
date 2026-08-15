@@ -44,16 +44,3 @@ A common interview question is:
 **Answer:**  
 A professional security document should include a **Title, Purpose, Scope, Version, Author, Content, and Review Date**. These sections make the document clear, traceable, and easy to maintain.
 
-### 🔑 Easy Trick to Remember
-
-**TPSVACR**
-
-- **T** → Title
-- **P** → Purpose
-- **S** → Scope
-- **V** → Version
-- **A** → Author
-- **C** → Content
-- **R** → Review Date
-
-Remember **"TPSVACR"** to quickly recall the structure during interviews.

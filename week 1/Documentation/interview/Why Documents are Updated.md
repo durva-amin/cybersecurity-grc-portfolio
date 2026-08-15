@@ -40,13 +40,3 @@ A common interview question is:
 **Answer:**  
 No. Documents must be reviewed and updated regularly to ensure they remain accurate, effective, and compliant with current business and regulatory requirements.
 
-### 🔑 Easy Trick to Remember
-
-**"4T Rule"**
-
-Documents are updated because of changes in:
-
-- **T**hreats ⚠️
-- **T**echnology 💻
-- **T**asks (Business Processes) 🏢
-- **T**rules (Laws & Regulations) 📜

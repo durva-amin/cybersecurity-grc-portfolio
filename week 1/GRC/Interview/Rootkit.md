@@ -38,12 +38,3 @@ Through infected software, phishing emails, software vulnerabilities, or Trojan 
 
 
 
-### Rootkit vs Trojan
-
-- **Trojan:** Tricks users into installing malicious software.
-- **Rootkit:** Hides malicious software after it is installed.
-
-**Easy Trick to Remember:**
-
-- **Trojan** → **Tricks**
-- **Rootkit** → **Hides**

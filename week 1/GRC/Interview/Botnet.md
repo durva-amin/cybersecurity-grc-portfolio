@@ -40,12 +40,3 @@ By getting infected with malware through phishing emails, malicious downloads, o
 A **Botnet**, because multiple infected devices are being controlled to attack a target.
 
 
-### Bot vs Botnet
-
-- **Bot (Zombie):** A **single infected device** controlled by an attacker.
-- **Botnet:** A **collection of many bots** controlled together.
-
-**Easy Trick to Remember:**
-
-- **Bot = One infected device**
-- **Botnet = Many infected devices**

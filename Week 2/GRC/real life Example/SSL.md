@@ -1,0 +1,1 @@
+When you visit a secure banking website, your browser establishes a protected connection with the bank's server using **TLS**, not the old SSL protocol.

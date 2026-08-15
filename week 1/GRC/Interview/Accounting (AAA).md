@@ -40,10 +40,3 @@ A system records that a user logged in at 9:00 AM and downloaded a confidential 
 **Answer:**  
 **Accounting**, because it records user activities and maintains logs.
 
-# AAA (Authentication, Authorization, Accounting)
-
-| Term           | Question Answered               |
-| -------------- | ------------------------------- |
-| Authentication | **Who are you?**                |
-| Authorization  | **What are you allowed to do?** |
-| Accounting     | **What did you do?**            |

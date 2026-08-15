@@ -49,13 +49,3 @@ MFA is a security method that uses two or more authentication factors to verify 
 **Multi-Factor Authentication (MFA)** because two different authentication factors are used.
 
 
-**"Q What is the difference between Authentication and Authorization?"**
-
-| Authentication         | Authorization                            |
-| ---------------------- | ---------------------------------------- |
-| Verifies identity      | Grants permissions                       |
-| **Who are you?**       | **What can you do?**                     |
-| Happens first          | Happens after authentication             |
-| Example: Password, OTP | Example: Read, Write, Delete permissions |
-- **Authentication = Identity**
-- **Authorization = Permission**

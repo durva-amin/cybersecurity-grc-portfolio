@@ -37,15 +37,3 @@ A common interview question is:
 **Answer:**  
 No. Verbal instructions can be forgotten or misunderstood. Written documentation ensures consistency, accountability, training, and provides evidence during audits.
 
-### Easy Trick to Remember
-
-**Documents = 6 C's**
-
-- **C**onsistency
-- **C**larity
-- **C**ompliance
-- **C**ommunication
-- **C**ontrol
-- **C**ontinuity
-
-Remembering these six words helps you quickly explain why documentation is essential in GRC.

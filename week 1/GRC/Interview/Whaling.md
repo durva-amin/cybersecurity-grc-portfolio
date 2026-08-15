@@ -44,15 +44,3 @@ Because they have access to sensitive information and the authority to approve f
 **Whaling**, because it targets a senior executive.
 
 
-### Phishing vs Spear Phishing vs Whaling
-
-|Phishing|Spear Phishing|Whaling|
-|---|---|---|
-|Targets many people|Targets a specific person|Targets top executives|
-|Generic message|Personalized message|Personalized message for senior officials|
-
-**Easy Trick to Remember:**
-
-- **Phishing** → Everyone
-- **Spear Phishing** → One specific person
-- **Whaling** → The "big fish" (CEO, CFO, Directors)

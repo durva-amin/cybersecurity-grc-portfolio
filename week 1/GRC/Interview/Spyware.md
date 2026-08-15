@@ -37,12 +37,3 @@ Passwords, usernames, banking information, browsing history, and personal data.
 
 
 
-### Spyware vs Ransomware
-
-- **Spyware:** Secretly **collects information**.
-- **Ransomware:** **Encrypts files** and demands money.
-
-**Easy Trick to Remember:**
-
-- **Spyware** → **Spies**
-- **Ransomware** → **Ransom** (asks for money)

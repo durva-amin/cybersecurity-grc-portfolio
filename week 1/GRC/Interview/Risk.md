@@ -35,15 +35,3 @@ No. A risk exists when there is a vulnerability that a threat can exploit.
 **Answer:**  
 The risk is that an attacker may exploit the unpatched server to gain unauthorized access or steal data.
 
-
-Interviewers often ask the relationship between these three terms:
-
-- **Threat** → Potential danger (e.g., hacker)
-- **Vulnerability** → Weakness (e.g., weak password)
-- **Risk** → Chance of loss if the threat exploits the vulnerability
-
-**Easy Example:**
-
-- **Threat:** Hacker
-- **Vulnerability:** Weak password
-- **Risk:** Hacker logs in and steals company data.

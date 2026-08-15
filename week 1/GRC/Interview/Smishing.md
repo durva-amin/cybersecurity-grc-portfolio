@@ -42,16 +42,3 @@ Passwords, OTPs, bank details, card details, and personal information.
 
 
 
-### Phishing vs Vishing vs Smishing
-
-|Attack|Method|
-|---|---|
-|**Phishing**|Email, fake websites, messages|
-|**Vishing**|Phone calls (Voice)|
-|**Smishing**|SMS/Text messages|
-
-**Easy Trick to Remember:**
-
-- **Phishing** → General phishing attack
-- **Vishing** → **V = Voice**
-- **Smishing** → **S = SMS**

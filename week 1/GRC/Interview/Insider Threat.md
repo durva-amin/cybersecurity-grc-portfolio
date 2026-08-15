@@ -41,10 +41,4 @@ Because insiders already have authorized access, making it easier for them or so
 
 
 
-### Insider Threat vs External Threat
 
-|Insider Threat|External Threat|
-|---|---|
-|Comes from inside the organization|Comes from outside the organization|
-|Has authorized access|Usually has no authorized access|
-|Example: Employee|Example: Hacker|

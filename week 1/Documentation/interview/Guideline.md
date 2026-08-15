@@ -49,6 +49,3 @@ A very common interview question is:
 - **Standard = EXACT RULES** 📏
 - **Guideline = SUGGESTION** 💡
 
-### 🔑 One-Line Memory Trick
-
-> **Policy tells you what to do, Procedure tells you how to do it, Standard tells you the exact requirements, and Guideline tells you the best way to do it.**

@@ -40,14 +40,3 @@ Bank details, passwords, OTPs, card details, and personal information.
 **Vishing**, because the attacker is using a phone call to steal sensitive information.
 
 
-### Phishing vs Vishing
-
-|Phishing|Vishing|
-|---|---|
-|Email, websites, or messages|Phone calls or voice messages|
-|Tricks users online|Tricks users over a call|
-
-**Easy Trick to Remember:**
-
-- **Vishing** → **V = Voice**
-- **Smishing** (next topic) → **S = SMS**

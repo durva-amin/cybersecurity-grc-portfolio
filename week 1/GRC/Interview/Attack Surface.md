@@ -40,15 +40,3 @@ Because fewer entry points mean fewer opportunities for attackers to compromise 
 **Answer:**  
 They are **reducing the attack surface**, making it harder for attackers to find entry points.
 
-
-**"What is the difference between an Attack Surface and a Vulnerability?"**
-
-**Answer:**
-
-- **Attack Surface:** All possible places an attacker can try to enter.
-- **Vulnerability:** A specific weakness in one of those places.
-
-**Easy Example:**
-
-- Company website = **Attack Surface**
-- Outdated website software = **Vulnerability**

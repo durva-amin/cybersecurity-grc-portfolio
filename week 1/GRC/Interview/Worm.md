@@ -37,15 +37,3 @@ It can spread rapidly, consume network resources, slow down systems, and infect 
 
 
 
-**Virus vs Worm**
-
-|Virus|Worm|
-|---|---|
-|Needs a host file|Does not need a host file|
-|Needs user action|Spreads automatically|
-|Infects files|Infects systems over a network|
-
-**Easy Trick to Remember:**
-
-- **Virus = Needs you to open something.**
-- **Worm = Travels by itself.**

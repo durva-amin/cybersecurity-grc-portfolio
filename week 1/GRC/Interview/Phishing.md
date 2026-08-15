@@ -42,12 +42,3 @@ Through fake emails, fake websites, SMS messages, and social media messages.
 
 
 
-**Phishing vs Malware**
-
-- **Phishing:** Tricks the user into giving information.
-- **Malware:** Harmful software that infects a device.
-
-**Easy Trick to Remember:**
-
-- **Phishing** → **Tricks people**
-- **Malware** → **Infects systems**

@@ -43,14 +43,3 @@ Documentation connects all three pillars of GRC:
 - **Risk:** Records risks and treatment plans.
 - **Compliance:** Provides evidence for audits and regulatory requirements.
 
-### Easy Trick to Remember
-
-**GRC = 3D**
-
-- **G**overnance → **D**efine rules 📋
-- **R**isk → **D**ocument risks ⚠️
-- **C**ompliance → **D**emonstrate evidence ✅
-
-**One-line interview answer:**
-
-> "In GRC, if it's not documented, it's difficult to prove it exists or is being followed." (This reflects a common auditing principle.)

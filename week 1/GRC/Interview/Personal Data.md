@@ -42,14 +42,3 @@ Yes. An email address can identify a person, so it is Personal Data.
 
 
 
-### Personal Data vs Confidential Data
-
-|Personal Data|Confidential Data|
-|---|---|
-|Identifies an individual|Sensitive information that must be kept secret|
-|Example: Name, Email, Aadhaar|Example: Salary records, business contracts, trade secrets|
-
-**Easy Trick to Remember:**
-
-- **Personal Data** → **About a person**
-- **Confidential Data** → **Secret information that needs protection**

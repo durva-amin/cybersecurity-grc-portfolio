@@ -35,15 +35,3 @@ The files are encrypted or the system is locked, and the attacker demands a rans
 **Answer:**  
 **Ransomware**, because it encrypts files and demands a ransom.
 
-
-**Virus vs Trojan vs Ransomware**
-
-- **Virus:** Infects files and spreads when the infected file is opened.
-- **Trojan:** Pretends to be legitimate software to trick users.
-- **Ransomware:** Encrypts files or locks the system and demands a ransom.
-
-**Easy Trick to Remember:**
-
-- **Virus** → Infects
-- **Trojan** → Tricks
-- **Ransomware** → Locks and demands money

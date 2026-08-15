@@ -1,0 +1,1 @@
+When your laptop connects to a Wi-Fi network, it receives an IP address. The router uses IP addresses to help network traffic reach the correct devices.

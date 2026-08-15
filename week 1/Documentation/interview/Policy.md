@@ -39,15 +39,3 @@ A very common interview question is:
 
 **Procedure:** Explains **how** to do it.
 
-### Easy Trick to Remember
-
-**Policy = WHAT** 📋
-
-**Procedure = HOW** ⚙️
-
-**Example:**
-
-- **Policy:** Employees must use MFA.
-- **Procedure:** Steps to enable MFA on a company account.
-
-This is one of the most frequently asked GRC interview questions, so remember **Policy = WHAT, Procedure = HOW**.

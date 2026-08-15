@@ -40,15 +40,3 @@ A common interview question is:
 **Answer:**  
 Version Control ensures that only the latest approved document is used, maintains a history of changes, and provides evidence during audits.
 
-### 🔑 Easy Trick to Remember
-
-**1.0 → New** 🆕
-
-**1.1 → Small Change** ✏️
-
-**2.0 → Big Change** 🚀
-
-**Memory Rule:**
-
-> **Small change = Decimal changes (1.1, 1.2)**  
-> **Big change = Whole number changes (2.0, 3.0)**

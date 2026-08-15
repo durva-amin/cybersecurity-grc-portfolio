@@ -40,11 +40,3 @@ The organization may fail the audit because it cannot provide documented evidenc
 
 **Documentation:** Written documents that explain **what** controls must be implemented and **how** they should be managed.
 
-### Easy Trick to Remember
-
-**Documentation → "Write it."** 📄
-
-**Security Control → "Do it."** 🔒
-
-Documentation tells you **what should happen**.  
-Security controls are **what actually happens**.

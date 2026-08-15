@@ -36,12 +36,3 @@ Yes. Some adware can collect browsing habits and other user information.
 **Adware**, because it displays unwanted advertisements and may change browser settings.
 
 
-### Adware vs Spyware
-
-- **Adware:** Shows **unwanted advertisements**.
-- **Spyware:** **Secretly collects user information**.
-
-**Easy Trick to Remember:**
-
-- **Adware** → **Ads**
-- **Spyware** → **Spies** on the user

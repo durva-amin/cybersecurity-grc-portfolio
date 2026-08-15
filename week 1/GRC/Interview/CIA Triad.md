@@ -42,8 +42,3 @@ Availability ensures that systems and information are accessible whenever author
 **Answer:**  
 **Integrity**, because the data was modified without authorization.
 
-**Q  Which principle of the CIA Triad is affected in each case?"**
-
-- Data is leaked → **Confidentiality**
-- Data is changed → **Integrity**
-- System is down or unavailable → **Availability**

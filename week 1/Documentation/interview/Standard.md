@@ -50,7 +50,3 @@ A common interview question is:
 - **Policy:** Use strong passwords.
 - **Standard:** Passwords must be at least 12 characters with uppercase, lowercase, number, and special character.
 
-### 🔑 One-Line Memory Trick
-
-**Policy says "Use a strong password."**  
-**Standard says "A strong password means at least 12 characters with specific complexity requirements."**

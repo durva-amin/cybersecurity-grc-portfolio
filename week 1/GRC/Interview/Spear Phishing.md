@@ -41,15 +41,3 @@ Because it is personalized, making it more convincing and increasing the chances
 **Spear Phishing**, because the attack is targeted at a specific individual using personalized information.
 
 
-### Phishing vs Spear Phishing
-
-|Phishing|Spear Phishing|
-|---|---|
-|Targets many people|Targets a specific person|
-|Generic message|Personalized message|
-|Less convincing|More convincing|
-
-**Easy Trick to Remember:**
-
-- **Phishing** → **General attack**
-- **Spear Phishing** → **Specific target**
