@@ -2,7 +2,7 @@
 
 > 🚀 **Started:** August 2026  
 > 🎯 **Target:** Information Security (GRC) Internship by December 2026  
-> 📅 **Status:** Week 1 Completed ✅
+> 📅 **Status:** Week 2 Completed ✅
 
 ---
 
@@ -91,8 +91,8 @@ Week-01
 | Week | Topics | Status |
 |------|--------|--------|
 | Week 1 | Cybersecurity Fundamentals | ✅ Completed |
-| Week 2 | Networking Basics | ⏳ In Progress |
-| Week 3 | Operating Systems | ⏳ Planned |
+| Week 2 | Networking Basics | ✅ Completed  |
+| Week 3 | Operating Systems | ⏳ In Progress |
 | Week 4 | Information Security Principles | ⏳ Planned |
 | Week 5 | Risk Management | ⏳ Planned |
 | Week 6 | ISO 27001 | ⏳ Planned |
