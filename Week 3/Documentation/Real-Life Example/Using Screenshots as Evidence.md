@@ -1,0 +1,1 @@
+You document that **Windows Firewall is enabled**. A screenshot showing the enabled firewall status can be included as evidence to support this observation.

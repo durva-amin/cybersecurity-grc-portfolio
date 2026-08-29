@@ -1,0 +1,1 @@
+While documenting Windows Firewall settings, take a screenshot that clearly shows the **Windows Firewall status and relevant settings**, rather than capturing the entire desktop.

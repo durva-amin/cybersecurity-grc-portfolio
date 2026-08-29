@@ -1,0 +1,3 @@
+| Observation          | Evidence                                  | Impact                                             | Recommendation          |
+| -------------------- | ----------------------------------------- | -------------------------------------------------- | ----------------------- |
+| Firewall is disabled | Screenshot showing Firewall status as Off | Increased exposure to unauthorized network traffic | Enable Windows Firewall |

@@ -1,0 +1,1 @@
+If a screenshot of Windows Firewall contains many settings, crop it to the relevant section and highlight the **Firewall status** that you want to use as evidence.
